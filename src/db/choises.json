@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "description": "Tomas el sendero de la izquierda.",
+        "situation": 2
+    },
+    {
+        "id": 2,
+        "description": "Tomas el sendero del medio.",
+        "situation": 3
+    },
+    {
+        "id": 3,
+        "description": "Tomas el sendero de la derecha.",
+        "situation": 4
+    },
+    {
+        "id": 4,
+        "description": "Cruzas el puente.",
+        "situation": 5
+    },
+    {
+        "id": 5,
+        "description": "Utilizas el bote para cruzar el río.",
+        "situation": 6
+    },
+    {
+        "id": 6,
+        "description": "Sigues caminando por la orilla del río.",
+        "situation": 7
+    },
+    {
+        "id": 7,
+        "description": "Entro en el túnel más ancho y veo una luz al fondo. Un sonido desconocido viene de allí.",
+        "situation": 19
+    },
+    {
+        "id": 8,
+        "description": "Me adentro en el túnel lleno de telarañas.",
+        "situation": 22
+    },
+    {
+        "id": 9,
+        "description": "Me atrevo a entrar en el túnel oscuro y profundo.",
+        "situation": 25
+    },
+    {
+        "id": 10,
+        "description": "Bebes la poción.",
+        "situation": 10
+    },
+    {
+        "id": 11,
+        "description": "Rechazas la poción.",
+        "situation": 11
+    },
+    {
+        "id": 12,
+        "description": "Decides seguir adelante.",
+        "situation": 12
+    },
+    {
+        "id": 13,
+        "description": "Exploras la isla.",
+        "situation": 13
+    },
+    {
+        "id": 14,
+        "description": "Decides quedarte en la isla.",
+        "situation": 14
+    },
+    {
+        "id": 15,
+        "description": "Te unes a la tribu.",
+        "situation": 15
+    },
+    {
+        "id": 16,
+        "description": "Exploras la cabaña.",
+        "situation": 16
+    },
+    {
+        "id": 17,
+        "description": "Buscas en la cabaña.",
+        "situation": 17
+    },
+    {
+        "id": 18,
+        "description": "Sales de la cabaña.",
+        "situation": 18
+    },
+    {
+        "id": 19,
+        "description": "Te diriges hacia la luz.",
+        "situation": 19
+    },
+    {
+        "id": 20,
+        "description": "Te acercas al sonido.",
+        "situation": 20
+    },
+    {
+        "id": 21,
+        "description": "Exploras el túnel.",
+        "situation": 21
+    },
+    {
+        "id": 22,
+        "description": "Entras en la caverna dorada.",
+        "situation": 22
+    },
+    {
+        "id": 23,
+        "description": "Hablas con el guardián.",
+        "situation": 23
+    },
+    {
+        "id": 24,
+        "description": "Buscas la salida oculta.",
+        "situation": 24
+    },
+    {
+        "id": 25,
+        "description": "Caminas a ciegas en la oscuridad.",
+        "situation": 25
+    },
+    {
+        "id": 26,
+        "description": "Sigues al fuego fatuo.",
+        "situation": 26
+    },
+    {
+        "id": 27,
+        "description": "Tratas de salir del pozo.",
+        "situation": 27
+    }
+]

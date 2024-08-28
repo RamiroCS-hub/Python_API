@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "description": "Te encuentras en un bosque oscuro. Solo hay un sendero que se bifurca en tres direcciones.",
+        "choices": [1, 2, 3]
+    },
+    {
+        "id": 2,
+        "description": "Has llegado a un río caudaloso. Hay un puente viejo y un bote amarrado.",
+        "choices": [4, 5, 6]
+    },
+    {
+        "id": 3,
+        "description": "Te encuentras en una cueva. Dentro, hay tres túneles que se adentran en la oscuridad.",
+        "choices": [7, 8, 9]
+    },
+    {
+        "id": 4,
+        "description": "Al cruzar el puente, te encuentras con un viejo sabio que te ofrece una poción mágica.",
+        "choices": [10, 11, 12]
+    },
+    {
+        "id": 5,
+        "description": "Al tomar el bote, navegas río abajo y descubres una isla misteriosa.",
+        "choices": [13, 14, 15]
+    },
+    {
+        "id": 6,
+        "description": "Caminas por la orilla del río y encuentras una cabaña abandonada.",
+        "choices": [16, 17, 18]
+    },
+    {
+        "id": 7,
+        "description": "Entro en el túnel más ancho y veo una luz al fondo. Un sonido desconocido viene de allí.",
+        "choices": [19, 20, 21]
+    },
+    {
+        "id": 8,
+        "description": "El túnel es angosto y lleno de telarañas, pero al final se abre a una caverna dorada.",
+        "choices": [22, 23, 24]
+    },
+    {
+        "id": 9,
+        "description": "Entras en el túnel medio y se vuelve cada vez más oscuro hasta que no puedes ver nada.",
+        "choices": [25, 26, 27]
+    },
+    {
+        "id": 10,
+        "description": "Bebes la poción y te transformas en una criatura poderosa. Has obtenido el poder del bosque.",
+        "choices": []
+    },
+    {
+        "id": 11,
+        "description": "Rechazas la poción y el sabio desaparece, dejándote solo. Sigues tu camino hacia un claro.",
+        "choices": []
+    },
+    {
+        "id": 12,
+        "description": "El sabio te advierte de un peligro inminente, pero decides seguir adelante.",
+        "choices": []
+    },
+    {
+        "id": 13,
+        "description": "Exploras la isla y encuentras un tesoro enterrado. Te conviertes en un aventurero rico.",
+        "choices": []
+    },
+    {
+        "id": 14,
+        "description": "La isla está desierta y no hay salida. Pasas el resto de tus días en soledad.",
+        "choices": []
+    },
+    {
+        "id": 15,
+        "description": "Descubres una tribu que te adopta como uno de los suyos, viviendo el resto de tus días en paz.",
+        "choices": []
+    },
+    {
+        "id": 16,
+        "description": "Dentro de la cabaña encuentras un mapa antiguo que te lleva a un tesoro escondido.",
+        "choices": []
+    },
+    {
+        "id": 17,
+        "description": "La cabaña se derrumba, pero encuentras un túnel secreto que te lleva a una cueva llena de gemas.",
+        "choices": []
+    },
+    {
+        "id": 18,
+        "description": "Al salir de la cabaña, un grupo de bandidos te embosca y te roban todas tus pertenencias.",
+        "choices": []
+    },
+    {
+        "id": 19,
+        "description": "La luz al final del túnel es una salida que te lleva a un valle próspero. Vives en paz.",
+        "choices": []
+    },
+    {
+        "id": 20,
+        "description": "La luz revela un dragón dormido. Decides no molestarlo y encontrar otra salida.",
+        "choices": []
+    },
+    {
+        "id": 21,
+        "description": "El sonido se convierte en un rugido, pero te armas de valor y encuentras un arma poderosa.",
+        "choices": []
+    },
+    {
+        "id": 22,
+        "description": "La caverna dorada está llena de tesoros, pero es una trampa. Te quedas atrapado para siempre.",
+        "choices": []
+    },
+    {
+        "id": 23,
+        "description": "Un guardián antiguo te ofrece riquezas a cambio de tu libertad. Aceptas el trato.",
+        "choices": []
+    },
+    {
+        "id": 24,
+        "description": "Encuentras una salida oculta que te lleva a un reino olvidado, donde eres recibido como un héroe.",
+        "choices": []
+    },
+    {
+        "id": 25,
+        "description": "Te pierdes en la oscuridad y nunca encuentras la salida. Tus días terminan en la cueva.",
+        "choices": []
+    },
+    {
+        "id": 26,
+        "description": "Encuentras un fuego fatuo que te guía hacia la luz, salvándote del túnel oscuro.",
+        "choices": []
+    },
+    {
+        "id": 27,
+        "description": "Tropezas y caes en un pozo profundo, pero sobrevives y encuentras una salida.",
+        "choices": []
+    }
+]
